@@ -20,3 +20,20 @@ h2{
 h3{
   color:#76BA99;
 }
+
+a:hover{
+  color:red;
+}
+
+input:autofill {
+    border: 3px solid darkorange;
+}
+
+
+
+/* #yellow{
+  color: yellow;
+}
+#blue-bg{
+  background-color: blue;
+} */
